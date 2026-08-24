@@ -1,0 +1,26 @@
+# Project TODO
+
+- [x] Define the Ethiopian-inspired visual system with accessible light and dark theme tokens, typography, woven-pattern accents, and responsive layout rules.
+- [x] Create the bilingual English/Amharic localization layer for public pages, forms, navigation, dashboard labels, and content entries.
+- [x] Build a public landing page with hotel discovery, room highlights, availability search controls, amenities, promotions, and reservation calls to action.
+- [x] Build public room discovery and room-detail interfaces with filters, bilingual descriptions, availability status, and reservation entry points.
+- [x] Implement a reservation flow with guest details, date selection, guest counts, booking summary, lifecycle status, and payment-status selection.
+- [x] Create persisted hotel operations data models for hotels, rooms, room status, amenities, promotions, guest profiles, reservations, payments, and editable bilingual content.
+- [x] Implement server procedures for public hotel discovery, availability searching, reservation creation, dashboard metrics, and content updates.
+- [x] Extend role support and protected navigation for guest, hotel administrator, and developer roles.
+- [x] Build the guest dashboard with upcoming stays, reservation details, booking history, payment status, and profile summary.
+- [x] Build the administrator dashboard with occupancy, arrivals, room status, reservations, payments, and operational quick actions.
+- [x] Build room-management, guest-management, reservation lifecycle, check-in/check-out, and payment-status management interfaces.
+- [x] Build the bilingual content-management interface for landing-page copy, rooms, amenities, and promotions.
+- [x] Build a dedicated developer page and protected developer dashboard, branded and credited to Mihrat Ashenafi.
+- [x] Add responsive behavior, accessible interaction states, loading and empty states, and non-placeholder feedback.
+- [x] Add and run Vitest coverage for role protection, localization content, availability logic, and reservation lifecycle rules.
+- [x] Verify the public, guest, admin, and developer views visually on desktop and mobile before delivery.
+- [x] Render persisted bilingual landing-page content and promotions dynamically on public pages.
+- [x] Add availability-aware room filters and a dedicated bilingual room-detail view.
+- [x] Expand the reservation experience with guest contact capture and payment-method selection.
+- [x] Add an administrator guest-management interface backed by the guest profile procedures.
+- [x] Add robust error states for public and dashboard data queries and mutations.
+- [x] Add test coverage for date-overlap availability behavior.
+- [x] Verify protected guest, administrator, and developer dashboard layouts across desktop and mobile states.
+- [ ] Push the completed project source to paradoxit-ethco/hotel on GitHub.
